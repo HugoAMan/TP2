@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1640635469 source:c:\users\fraian\desktop\trabajo practico 2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1640638922 source:c:\users\fraian\desktop\trabajo practico 2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1640637170 c:\users\fraian\desktop\trabajo practico 2\tp2\funciones.h
+
+1640709859 source:c:\users\flia-miguel\desktop\trabajo practico 2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"funciones.h"
+
+1640707654 c:\users\flia-miguel\desktop\trabajo practico 2\tp2\funciones.h
+
+1640707654 source:c:\users\flia-miguel\desktop\trabajo practico 2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<stdbool.h>
+	<windows.h>
+
+1640726389 source:c:\users\flia-miguel\desktop\tp2laboratorio\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"funciones.h"
+
+1640725753 c:\users\flia-miguel\desktop\tp2laboratorio\tp2\funciones.h
+
+1640725719 source:c:\users\flia-miguel\desktop\tp2laboratorio\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<stdbool.h>
+	<windows.h>
+
+1640741637 source:c:\users\man\documents\programas c\tp2laboratorio\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"funciones.h"
+
+1640741637 c:\users\man\documents\programas c\tp2laboratorio\tp2\funciones.h
+
+1640741637 source:c:\users\man\documents\programas c\tp2laboratorio\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<stdbool.h>
+	<windows.h>
+
